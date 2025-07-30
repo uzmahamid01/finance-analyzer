@@ -1,4 +1,4 @@
-# Bookkeeping Application 📊
+# Finance Analyzer & ML Categorization 📊
 
 A personal finance management application that combines my passion for **machine learning** and **Django's versatility** to create an intelligent transaction tracking system.
 
